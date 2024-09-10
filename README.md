@@ -1,8 +1,8 @@
 ## Hi there!! 👋
 
-My name is Anna, a computer science enthusiast located in Sweden. I obtained my Bachelor's Degree in 2024 and am currently pursuing further education in the form of a Master's Degree.
+My name is Anna, a computer science enthusiast located in Sweden. I got my Bachelor's Degree in 2024 and am currently pursuing further education in the form of a Master's Degree.
 
-I am open to learning new things (and I'd like to think that I adapt to them rather well). Currently, I am privately pursuing a game development project in C++ to expand both my knowledge, and my portfolio.
+I am open to learning new things (and I'd like to think that I adapt to them rather well).
 
 ## I code with
 
